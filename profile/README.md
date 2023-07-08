@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Making Node.js features available in more places. That means [you can use `node:util` in the browser]!
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,3 +12,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+[you can use `node:util` in the browser]: https://github.com/nodefill/util#readme
